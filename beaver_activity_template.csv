@@ -1,0 +1,12 @@
+Date,Observer,Location (GPS or description),Activity Type,Impact Notes,Mitigation Actions
+2024-06-15,Jane Doe,47.1234,-120.5678,Dam Building,Water level rising near road culvert,Installed pond leveler
+2024-06-20,John Smith,Near north pasture fence,Tree Felling,Two apple trees girdled,Wrapped remaining trees with hardware cloth
+2024-07-05,Jane Doe,47.1250,-120.5700,Canal Digging,New canal diverting stream,None needed - beneficial wetland expansion
+2024-07-12,Local Land Trust,Site B (see map),Lodge Building,New lodge observed,Monitored for potential flooding
+
+# Instructions:
+# 1. Replace example rows with your own observations.
+# 2. Keep the header row as is.
+# 3. Use consistent Activity Type values: Dam Building, Tree Felling, Canal Digging, Lodge Building, Feeding, Other.
+# 4. GPS coordinates optional but helpful for mapping.
+# 5. Save the file with a descriptive name (e.g., beaver_observations_2024.csv).
